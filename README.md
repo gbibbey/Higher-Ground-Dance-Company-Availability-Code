@@ -6,7 +6,7 @@ Follow closely for the code to work properly:
 
 2. Make sure there are NO DUPLICATE FORMS from people that may have submitted multiple times 
    (can alphabetize to check, but make sure you put it back to submission order before sorting 
-   begins to keep it fair)
+   begins to keep it fair) and make sure each person's name is spelled the same way for each preference.
 
 3. Make sure all the times in the Sunday-Thursday columns are on the left side of the column and not the right
    (or else google will think it is a date instead of a time)
